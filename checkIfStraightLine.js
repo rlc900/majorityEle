@@ -1,4 +1,5 @@
 var checkStraightLine = function(coordinates) {
+
     const c1 = coordinates[1]
     const c2 = coordinates[0]
     const slope1 = calcSlope(c1, c2)
